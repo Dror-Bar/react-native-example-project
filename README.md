@@ -1,5 +1,5 @@
 # react-native-example-project
-A basic structure/skeleton of a modern react native app
+A basic structure/skeleton of a modern react native app.
 
 To install required libraries, in root run the commands:
 
